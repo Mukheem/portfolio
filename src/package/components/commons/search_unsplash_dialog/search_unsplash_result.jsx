@@ -85,10 +85,10 @@ const Results = ({ query, debouncedQuery, onSelect, classes }) => {
                 url: urls.regular,
                 alt: description,
                 credits: {
-                    url: encodeURI(`${user.links.html}`),
+                    url: encodeURI(`${user.links.html}?utm_source=W3D Developer Profile&utm_medium=referral`),
                     name: user.username
                 },
-                fromUnsplash: false
+                fromUnsplash: true
             });
             // eslint-disable-next-line no-undef
             fetch(`${endpoints?.unsplashProxy}?url=${links.download_location}`);
