@@ -69,6 +69,16 @@ const ShareLinksComponent = ({ useSmallLayout }) => {
                                 {content}
                             </a>
                         );
+                    } else {
+                        content = (
+                            <a
+                                href={getLink}
+                                target="_blank"
+                                rel="noreferrer noopener"
+                            >
+                                {content}
+                            </a>
+                        );
                     }
                     if (tooltipTranslation) {
                         content = (

@@ -29,14 +29,23 @@ const FooterComponent = () => {
         return (
             <div className={cn(classes.container, useSmallLayout && classes.smallLayoutContainer)}>
                 <div className={classes.wldLogoGithubLogoContainer}>
-                    <a
+                    <Tooltip
+                        title={
+                            <FormattedMessage
+                                id="Footer.link.message"
+                                defaultMessage="Check out my Github Profile!"
+                            />
+                        }
+                    >
+                        <a
                         className={classes.logoLink}
                         href="https://welovedevs.com"
                         target="_blank"
                         rel="noreferrer noopener"
-                    >
+                        >
                         <Logo className={classes.logo} />
-                    </a>
+                        </a>
+                    </Tooltip>
                     <Tooltip
                         title={
                             <FormattedMessage
@@ -59,27 +68,9 @@ const FooterComponent = () => {
             </div>
         );
     }
-
     return (
         <div className={classes.container}>
-            <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
-                <Logo className={classes.logo} />
-            </a>
             <ShareLinks />
-            <Tooltip
-                title={
-                    <FormattedMessage id="Footer.github.tooltip" defaultMessage="Check out my Github Profile!" />
-                }
-            >
-                <a
-                    className={classes.githubLink}
-                    href="https://github.com/Mukheem"
-                    target="_bank"
-                    rel="noreferer noopener"
-                >
-                    <GithubLogo className={classes.githubLogo} />
-                </a>
-            </Tooltip>
         </div>
     );
 };
