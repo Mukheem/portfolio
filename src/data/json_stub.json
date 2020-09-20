@@ -6,7 +6,7 @@
         "email": "mukheemuddin@gmail.com",
         "phone": "(+91) 7744092494",
         "website": "http://mukheem.com",
-        "summary": "Automation Test Engineer by Profession | Developer by Passion",
+        "summary": "Automation Test Engineer",
         "location": {
             "address": "Handewadi Road, Hadapsar",
             "postalCode": "411028",
@@ -30,7 +30,11 @@
             "startDate": "2016-12-05",
             "summary": " Interacting with Business Analysts/Designers to get imprecise requirements/solutions sorted. Designing Test cases, Test Data Preparation and Executing test scenarios in Agile way. Identifying Potential Automation flows from each CR, every release. Creating Automation Test plan and getting approval.Developing new scripts/scenarios as per plan.  Maintenance of regression suite ",
             "location": "Pune, India",
-            "highlights": ["Re-designed existing automation framework to execute APEX code --> Reduced nearly 12-man hours of work (~7%) for every bi-weekly release. Now these scripts are part of daily Jenkins execution", " Migrating current frame work [GEB-SPOCK] to new Frame work [PYTEST]","Conducted POC for Contract Testing using PACT framework "]
+            "highlights": [
+                "Re-designed existing automation framework to execute APEX code --> Reduced nearly 12-man hours of work (~7%) for every bi-weekly release. Now these scripts are part of daily Jenkins execution",
+                " Migrating current frame work [GEB-SPOCK] to new Frame work [PYTEST]",
+                "Conducted POC for Contract Testing using PACT framework "
+            ]
         },
         {
             "name": "Tech Mahindra",
@@ -40,7 +44,11 @@
             "endDate": "2016-11-25",
             "summary": "Automation of web services via Groovy Script [Data driven] in SOAP UI besides carrying out Sanity testing, Integration testing, Interface testing, Regression testing, Database Testing and Web service testing ",
             "location": "Pune, India",
-            "highlights": ["Automated 800+ test cases covering 300+ web services which reduced ~32% of manual regression efforts."," Orchestrated a team of 7 members working from different locations, Nationwide","Designed and Developed full cycle of data creation through Web services automation."]
+            "highlights": [
+                "Automated 800+ test cases covering 300+ web services which reduced ~32% of manual regression efforts.",
+                " Orchestrated a team of 7 members working from different locations, Nationwide",
+                "Designed and Developed full cycle of data creation through Web services automation."
+            ]
         }
     ],
     "volunteer": [
@@ -49,7 +57,9 @@
             "position": "Software Developer",
             "website": "https://www.amdocs.com/",
             "summary": "Designed and Developed a web portal used across Amdocs Testing vertical ",
-            "highlights": ["Awarded '*********'"]
+            "highlights": [
+                "Awarded '*********'"
+            ]
         },
         {
             "organization": "Tech Mahindra",
@@ -57,7 +67,9 @@
             "website": "https://www.techmahindra.com/",
             "endDate": "2016-11-25",
             "summary": "Developed and Implemented few Shell scripts to suffice data needs of Performance Team.  Also, developed a tool in Visual Basic .net to upload large number of test case results to QC ",
-            "highlights": ["Awarded with Organizations highest award 'Grand Salute - Live wire'"]
+            "highlights": [
+                "Awarded with Organizations highest award 'Grand Salute - Live wire'"
+            ]
         }
     ],
     "education": [
@@ -68,7 +80,9 @@
             "startDate": "2014-06-01",
             "endDate": "2016-09-01",
             "gpa": "62%",
-            "courses": ["Supply Chain Management"]
+            "courses": [
+                "Supply Chain Management"
+            ]
         },
         {
             "institution": "Andhra Loyola Colege",
@@ -77,7 +91,11 @@
             "startDate": "2010-06-01",
             "endDate": "2013-05-31",
             "gpa": "89.9%",
-            "courses": ["Computer Science","Physics","Mathematics"]
+            "courses": [
+                "Computer Science",
+                "Physics",
+                "Mathematics"
+            ]
         }
     ],
     "awards": [
@@ -98,75 +116,122 @@
         }
     ],
     "skills": [
-         {
+        {
             "name": "Automation Testing",
             "level": "Master",
             "value": 50,
-            "keywords": ["Selenium", "Geb-Spock", "Pytest"]
-        }, 
+            "keywords": [
+                "Selenium",
+                "Geb-Spock",
+                "Pytest"
+            ]
+        },
         {
             "name": "Salesforce Testing",
             "level": "Master",
             "value": 30,
-            "keywords": ["Salesforce", "Functional Testing"]
+            "keywords": [
+                "Salesforce",
+                "Functional Testing"
+            ]
         },
         {
             "name": "API Testing",
             "level": "Intermediate",
             "value": 10,
-            "keywords": ["Webservices", "API"]
+            "keywords": [
+                "Webservices",
+                "API"
+            ]
         },
         {
             "name": "Pytest [Python]",
             "level": "Master",
             "value": 95,
-            "keywords": ["Python"]
+            "keywords": [
+                "Python"
+            ]
         },
         {
             "name": "Geb-Spock [Java/Groovy]",
             "level": "Master",
             "value": 75,
-            "keywords": ["Geb", "Spock", "API", "Java/Groovy"]
+            "keywords": [
+                "Geb",
+                "Spock",
+                "API",
+                "Java/Groovy"
+            ]
         },
         {
             "name": "Contract Testing",
             "level": "Intermediate",
             "value": 61,
-            "keywords": ["Webservices", "API"]
+            "keywords": [
+                "Webservices",
+                "API"
+            ]
         },
         {
             "name": "JavaScript",
             "level": "Intermediate",
             "value": 47,
-            "keywords": ["JS", "npm", "node"]
+            "keywords": [
+                "JS",
+                "npm",
+                "node"
+            ]
         },
         {
             "name": "Solidity",
             "level": "Beginner",
             "value": 33,
-            "keywords": ["ethereum", "blockchain"]
+            "keywords": [
+                "ethereum",
+                "blockchain"
+            ]
         },
         {
             "name": "POCs",
             "level": "Master",
             "value": 21,
-            "keywords": ["PACT"]
+            "keywords": [
+                "PACT"
+            ]
         }
-        
-        
     ],
     "languages": [
-        { "language": "English", "value": 80 },
-        { "language": "Hindi", "value": 90, "fluency": "Official Language" },
-        { "language": "Telugu", "value": 100, "fluency": "Native speaker" },
-        { "language": "Urdu", "value": 100, "fluency": "Mother Tounge" }
+        {
+            "language": "English",
+            "value": 80
+        },
+        {
+            "language": "Hindi",
+            "value": 90,
+            "fluency": "Official Language"
+        },
+        {
+            "language": "Telugu",
+            "value": 100,
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Urdu",
+            "value": 100,
+            "fluency": "Mother Tounge"
+        }
     ],
     "interests": [
         {
             "name": "Capturing different moods and colours - Passionate Fashion photographer "
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ],
     "projects": [
         {
             "name": "For an Australian Client : From Amdocs",
@@ -176,37 +241,56 @@
             "name": "For a US Client : From Techmahindra",
             "description": "As a Jr. Software Engineer, I started with Automation of Webservices besides Functional Testing of the application in different aspects.🚀",
             "images": []
-        }     
+        }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "Inquisitive Automation Test Engineer with 6+ years of experience in GUI, API, Web service testing, conducting POCs and developing web applications as part of cross team initiatives. Being so, reduced 39% of manual efforts with automation per release till now; resulted in less than 1% production failures with functional testing; logged with less than 3% of defects in applications developed. "
+            "personalDescription": "Inquisitive Automation Test Engineer with 6+ years of experience in GUI, API, Web service testing, conducting POCs as keen as mustard and developing web applications ardently as part of cross team initiatives. Being so, reduced 39% of manual efforts with automation per release till now; resulted in less than 1% production failures with functional testing; logged with less than 3% of defects in applications developed. "
         },
         "dreamJob": {
             "locations": [
-                { "name": "Ireland" },
-                { "name": "Australia" },
-                { "name": "Canada" },
-                { "name": "New Zealand" },
-                { "name": "Sweden" },
-                { "name": "Netherlands" }
+                {
+                    "name": "Ireland"
+                },
+                {
+                    "name": "Australia"
+                },
+                {
+                    "name": "Canada"
+                },
+                {
+                    "name": "New Zealand"
+                },
+                {
+                    "name": "Sweden"
+                },
+                {
+                    "name": "Netherlands"
+                }
             ],
             "remoteFrequency": "never",
             "perks": {
                 "challenge": true,
                 "work_hours": true,
                 "mood": true,
-				"perks": true,
-				"salary": false
-			}
+                "perks": true,
+                "salary": false
+            }
         },
         "currentJob": {
-            "issues": { "salary": true, "location":true }
+            "issues": {
+                "salary": true,
+                "location": true
+            }
         },
-        "education": { "studiesLevel": 5 },
+        "education": {
+            "studiesLevel": 5
+        },
         "work": {
-            "contractTypes": ["permanent"],
+            "contractTypes": [
+                "permanent"
+            ],
             "codingYears": 6.9,
             "codingReason": "Irky 'Humdrum' jobs make me code",
             "searchState": "activelySearching",
@@ -215,166 +299,188 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Learning Javascript and Blockchain stuff."
+        "interestedBy": "Learning Javascript, Python and Blockchain stuff."
     },
     "customization": {
-		"imageHeader": {
-			"url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-			"alt": "Default Banner"
-		},
-		"theme": {
-			"palette": {
-				"primary": {
-					"50": "#ffecf0",
-					"100": "#ffd9e0",
-					"200": "#ffb4c1",
-					"300": "#fe8ea3",
-					"400": "#fe6984",
-					"500": "#fe4365",
-					"600": "#cb3651",
-					"700": "#98283d",
-					"800": "#661b28",
-					"900": "#330d14",
-					"contrastDefaultColor": "light"
-				},
-				"secondary": {
-					"50": "#fff5f5",
-					"100": "#feebeb",
-					"200": "#fed8d7",
-					"300": "#fdc4c2",
-					"400": "#fdb1ae",
-					"500": "#fc9d9a",
-					"600": "#ca7e7b",
-					"700": "#975e5c",
-					"800": "#653f3e",
-					"900": "#321f1f",
-					"contrastDefaultColor": "light"
-				},
-				"tertiary": {
-					"50": "#fefaf7",
-					"100": "#fef5ef",
-					"200": "#fdebde",
-					"300": "#fbe1ce",
-					"400": "#fad7bd",
-					"500": "#f9cdad",
-					"600": "#c7a48a",
-					"700": "#957b68",
-					"800": "#645245",
-					"900": "#322923",
-					"contrastDefaultColor": "light"
-				}
-			}
-		},
-		"cardsOrder": [{
-			"type": "basics",
-			"variant": 4
-		}, {
-			"type": "projects",
-			"variant": 4
-		}, {
-			"type": "skills",
-			"variant": 0
-		}, {
-			"type": "dreamjob",
-			"variant": 4
-		}, {
-			"type": "experiences",
-			"variant": 4
-		}, {
-			"type": "studies",
-			"variant": 4
-		}, {
-			"type": "gifs",
-			"variant": 0
-		}, {
-			"type": "interestedBy",
-			"variant": 3
-		}, {
-			"type": "language",
-			"variant": 4
-		}, {
-			"type": "soundtrack",
-			"variant": 4
-		}]
-	},
-	"resumeCustomization": {
-		"imageHeader": {
-			"url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-			"alt": "Default Banner"
-		},
-		"theme": {
-			"palette": {
-				"primary": {
-					"50": "#eff2ed",
-					"100": "#dfe4da",
-					"200": "#bfc9b6",
-					"300": "#a0ae91",
-					"400": "#80936d",
-					"500": "#607848",
-					"600": "#4d603a",
-					"700": "#3a482b",
-					"800": "#26301d",
-					"900": "#13180e",
-					"contrastDefaultColor": "light"
-				},
-				"secondary": {
-					"50": "#f2f4ed",
-					"100": "#e4e9da",
-					"200": "#c9d3b6",
-					"300": "#aebc91",
-					"400": "#93a66d",
-					"500": "#789048",
-					"600": "#60733a",
-					"700": "#48562b",
-					"800": "#303a1d",
-					"900": "#181d0e",
-					"contrastDefaultColor": "light"
-				},
-				"tertiary": {
-					"50": "#f9fbef",
-					"100": "#f2f7df",
-					"200": "#e6efbf",
-					"300": "#d9e8a0",
-					"400": "#cde080",
-					"500": "#c0d860",
-					"600": "#9aad4d",
-					"700": "#73823a",
-					"800": "#4d5626",
-					"900": "#262b13",
-					"contrastDefaultColor": "light"
-				}
-			}
-		},
-		"cardsOrder": [{
-			"type": "basics",
-			"variant": 4
-		}, {
-			"type": "skills",
-			"variant": 0
-		}, {
-			"type": "dreamjob",
-			"variant": 3
-		}, {
-			"type": "projects",
-			"variant": 2
-		}, {
-			"type": "experiences",
-			"variant": 4
-		}, {
-			"type": "studies",
-			"variant": 0
-		}, {
-			"type": "gifs",
-			"variant": 3
-		}, {
-			"type": "interestedBy",
-			"variant": 2
-		}, {
-			"type": "language",
-			"variant": 1
-		}, {
-			"type": "soundtrack",
-			"variant": 4
-		}]
-	}
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ffecf0",
+                    "100": "#ffd9e0",
+                    "200": "#ffb4c1",
+                    "300": "#fe8ea3",
+                    "400": "#fe6984",
+                    "500": "#fe4365",
+                    "600": "#cb3651",
+                    "700": "#98283d",
+                    "800": "#661b28",
+                    "900": "#330d14",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#fff5f5",
+                    "100": "#feebeb",
+                    "200": "#fed8d7",
+                    "300": "#fdc4c2",
+                    "400": "#fdb1ae",
+                    "500": "#fc9d9a",
+                    "600": "#ca7e7b",
+                    "700": "#975e5c",
+                    "800": "#653f3e",
+                    "900": "#321f1f",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefaf7",
+                    "100": "#fef5ef",
+                    "200": "#fdebde",
+                    "300": "#fbe1ce",
+                    "400": "#fad7bd",
+                    "500": "#f9cdad",
+                    "600": "#c7a48a",
+                    "700": "#957b68",
+                    "800": "#645245",
+                    "900": "#322923",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
+        "cardsOrder": [
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            }
+        ]
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ebe7ea",
+                    "100": "#d7d0d6",
+                    "200": "#aea1ac",
+                    "300": "#867183",
+                    "400": "#5d4259",
+                    "500": "#351330",
+                    "600": "#2a0f26",
+                    "700": "#200b1d",
+                    "800": "#150813",
+                    "900": "#0b040a",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#ececee",
+                    "100": "#d9d9dd",
+                    "200": "#b3b3bb",
+                    "300": "#8e8e98",
+                    "400": "#686876",
+                    "500": "#424254",
+                    "600": "#353543",
+                    "700": "#282832",
+                    "800": "#1a1a22",
+                    "900": "#0d0d11",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#f0f4f3",
+                    "100": "#e0e9e8",
+                    "200": "#c1d3d0",
+                    "300": "#a2bcb9",
+                    "400": "#83a6a1",
+                    "500": "#64908a",
+                    "600": "#50736e",
+                    "700": "#3c5653",
+                    "800": "#283a37",
+                    "900": "#141d1c",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
+        "cardsOrder": [
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 3
+            },
+            {
+                "type": "projects",
+                "variant": 2
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 0
+            },
+            {
+                "type": "gifs",
+                "variant": 3
+            },
+            {
+                "type": "interestedBy",
+                "variant": 2
+            },
+            {
+                "type": "language",
+                "variant": 1
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            }
+        ]
+    }
 }
