@@ -394,8 +394,8 @@
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
+            "url": "https://images.unsplash.com/photo-1540228232483-1b64a7024923?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+            "alt": "<span>Photo by <a href='https://unsplash.com/@reneefisherandco?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Renee Fisher</a> on <a href='https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
         },
         "theme": {
             "palette": {
