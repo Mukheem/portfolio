@@ -246,7 +246,7 @@
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "Inquisitive Automation Test Engineer with 6+ years of experience in GUI, API, Web service testing, conducting POCs as keen as mustard and developing web applications ardently as part of cross team initiatives. Being so, reduced 39% of manual efforts with automation per release till now; resulted in less than 1% production failures with functional testing; logged with less than 3% of defects in applications developed. "
+            "personalDescription": "Inquisitive Automation Test Engineer with 7+ years of experience in GUI, API, Web service testing, conducting POCs with agog and developing web applications ardently as part of cross team initiatives. Being so, reduced 39% of manual efforts with automation per release till now; resulted in less than 1% production failures with functional testing; logged with less than 3% of defects in applications developed. "
         },
         "dreamJob": {
             "locations": [
@@ -267,6 +267,9 @@
                 },
                 {
                     "name": "Netherlands"
+                },
+                {
+                    "name": "Finland"
                 }
             ],
             "remoteFrequency": "never",
@@ -291,10 +294,10 @@
             "contractTypes": [
                 "permanent"
             ],
-            "codingYears": 6.6,
+            "codingYears": 6.9,
             "codingReason": "Irky 'Humdrum' jobs make me code",
             "searchState": "activelySearching",
-            "experienceYears": 6.9
+            "experienceYears": 7.0
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
