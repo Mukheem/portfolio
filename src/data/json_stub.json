@@ -5,14 +5,14 @@
         "picture": "https://www.gravatar.com/avatar/89d6dc705aabc0ca7bba3e2ea1221c41?s=4000",
         "email": "mukheemuddin@gmail.com",
         "phone": "(+91) 7744092494",
-        "website": "http://mukheem.com",
+        "website": "https://abdulmukheem.netlify.app/",
         "summary": "Automation Test Engineer",
         "location": {
-            "address": "Handewadi Road, Hadapsar",
-            "postalCode": "411028",
-            "city": "Pune",
-            "countryCode": "IN",
-            "region": "Maharashtra"
+            "address": "Stockholm",
+            "postalCode": "",
+            "city": "Stockholm",
+            "countryCode": "SE",
+            "region": "Sweden"
         },
         "profiles": [
             {
@@ -24,11 +24,29 @@
     },
     "work": [
         {
+            "name": "Swedbank",
+            "position": "Software Engineer",
+            "website": "https://swedbank.com/",
+            "startDate": "2021-12-13",
+            "summary": " As Application under migration, Automating the regression suite is the primary job. Next comes working on the stability of Automation framework and CI/CD pipeline",
+            "location": "Stockholm, Sweden"
+        },
+        {
+            "name": "Incedo",
+            "position": "Senior Test Engineer",
+            "website": "https://www.incedoinc.com/",
+            "startDate": "2021-05-16",
+            "endDate": "2021-12-10",
+            "summary": "Following all testing procedures and providing CRs with the highest level of test coverage in an Agile environment by designing Test cases, Test Data Preparation and Executing test scenarios. Besides this, Automating the majority of the processes in order to create a stable progression and regression suite.",
+            "location": "Pune, India"
+        },
+        {
             "name": "Amdocs",
             "position": "Automation Test Engineer",
             "website": "https://www.amdocs.com/",
             "startDate": "2016-12-05",
-            "summary": " Interacting with Business Analysts/Designers to get imprecise requirements/solutions sorted. Designing Test cases, Test Data Preparation and Executing test scenarios in Agile way. Identifying Potential Automation flows from each CR, every release. Creating Automation Test plan and getting approval.Developing new scripts/scenarios as per plan.  Maintenance of regression suite ",
+            "endDate": "2021-05-15",
+            "summary": "Interacting with Business Analysts/Designers to get imprecise requirements/solutions sorted. Designing Test cases, Test Data Preparation and Executing test scenarios in Agile way. Identifying Potential Automation flows from each CR, every release. Creating Automation Test plan and getting approval.Developing new scripts/scenarios as per plan.  Maintenance of regression suite ",
             "location": "Pune, India",
             "highlights": [
                 "Re-designed existing automation framework to execute APEX code --> Reduced nearly 12-man hours of work (~7%) for every bi-weekly release. Now these scripts are part of daily Jenkins execution",
@@ -245,26 +263,21 @@
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
+            "visaSponsorship": false,
             "personalDescription": "Ebullient and affable Automation Test Engineer with 7+ years of experience in GUI, API, Web service testing, conducting POCs with all agog and developing web applications ardently as part of cross team initiatives. Being so, reduced ~39% of manual efforts with automation per release till now; resulted in less than ~1% production failures with functional testing; logged with less than ~3% of defects in applications developed. "
         },
         "dreamJob": {
             "locations": [
                 {
+                    "name": "Sweden"
+                },
+                {
                     "name": "Ireland"
-                },
-                {
-                    "name": "Australia"
-                },
-                {
-                    "name": "Canada"
                 },
                 {
                     "name": "New Zealand"
                 },
-                {
-                    "name": "Sweden"
-                },
+               
                 {
                     "name": "Netherlands"
                 },
@@ -284,7 +297,7 @@
         "currentJob": {
             "issues": {
                 "salary": true,
-                "location": true
+                "location": false
             }
         },
         "education": {
@@ -294,10 +307,10 @@
             "contractTypes": [
                 "permanent"
             ],
-            "codingYears": 6.9,
+            "codingYears": 8.3,
             "codingReason": "Irky 'Humdrum' jobs make me code",
             "searchState": "activelySearching",
-            "experienceYears": 7.0
+            "experienceYears": 8.6
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
