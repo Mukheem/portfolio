@@ -6,7 +6,7 @@
         "email": "mukheemuddin@gmail.com",
         "phone": "(+91) 7744092494",
         "website": "https://abdulmukheem.netlify.app/",
-        "summary": "Automation Test Engineer",
+        "summary": "Software Engineer - Automation Test Engineer",
         "location": {
             "address": "Stockholm",
             "postalCode": "",
@@ -264,7 +264,7 @@
     "specific": {
         "basics": {
             "visaSponsorship": false,
-            "personalDescription": "Ebullient and affable Automation Test Engineer with 7+ years of experience in GUI, API, Web service testing, conducting POCs with all agog and developing web applications ardently as part of cross team initiatives. Being so, reduced ~39% of manual efforts with automation per release till now; resulted in less than ~1% production failures with functional testing; logged with less than ~3% of defects in applications developed. "
+            "personalDescription": "Ebullient and affable Automation Test Engineer with around 9 years of experience in GUI, API, Web service testing, conducting POCs with all agog and developing web applications ardently as part of cross team initiatives. Being so, reduced ~39% of manual efforts with automation per release till now; resulted in less than ~1% production failures with functional testing; logged with less than ~3% of defects in applications developed. "
         },
         "dreamJob": {
             "locations": [
@@ -277,7 +277,6 @@
                 {
                     "name": "New Zealand"
                 },
-               
                 {
                     "name": "Netherlands"
                 },
@@ -285,7 +284,7 @@
                     "name": "Finland"
                 }
             ],
-            "remoteFrequency": "never",
+            "remoteFrequency": "occasionally",
             "perks": {
                 "challenge": true,
                 "work_hours": true,
@@ -315,7 +314,7 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Learning Javascript, Python and Blockchain stuff."
+        "interestedBy": "Learning Javascript, Python and Data Science stuff."
     },
     "customization": {
         "imageHeader": {
